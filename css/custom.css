@@ -1619,6 +1619,11 @@ html{font-size:16px}body{color:#2d2d2c;font-family:"Open Sans";background-color:
     }
 }
 
+.g-hero-block .g-hero-block__link a {
+    width: 100%;
+    min-width: 300px;
+}
+
 .g-popup-block .g-popup-block__content>section {
     max-width: 520px;
     width: 100%
